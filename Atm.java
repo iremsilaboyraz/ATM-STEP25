@@ -15,7 +15,7 @@ public class Atm {
             int balance = 1500;
 
             if (password.equals("Dev123") && (userName.equals("patika"))){
-                System.out.println("Merhaba,SeyitBoyraz Bankasına Hoşgeldiniz!");
+                System.out.println("Merhaba, X Bankasına Hoşgeldiniz!");
       do {
 
 
